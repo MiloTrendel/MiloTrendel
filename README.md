@@ -1,0 +1,3 @@
+- Salut ! Je m'appelle Milo Trendel
+- Etudiant au CNAM ENJMIN L1 spécialité Jeux Vidéos 
+- Sur ce GitHub vous pourrez trouver mes différents projets 
